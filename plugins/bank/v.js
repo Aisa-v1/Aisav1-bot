@@ -45,12 +45,12 @@ const handler = async (m, { conn, command, text }) => {
                 isForwarded: true,
                 forwardingScore: 1,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363225356834044@newsletter',
-                    newsletterName: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
+                    newsletterJid: '120363426553571462@newsletter',
+                    newsletterName: 'Aisa-v1',
                     serverMessageId: 0
                 },
                 externalAdReply: {
-                    title: "𝐏𝐎𝐌𝐍𝐈-𝐀𝐈 🎪 | الـسـيـرك الـرقـمـي",
+                    title: "Aisa-v1 | الـسـيـرك الـرقـمـي",
                     body: "تـسـجـيـل جـديـد فـي الـسـيـرك",
                     thumbnailUrl: profilePic,
                     sourceUrl: '',
@@ -90,12 +90,12 @@ const handler = async (m, { conn, command, text }) => {
                 isForwarded: true,
                 forwardingScore: 1,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363225356834044@newsletter',
-                    newsletterName: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
+                    newsletterJid: '120363426553571462@newsletter',
+                    newsletterName: 'Aisa-v1',
                     serverMessageId: 0
                 },
                 externalAdReply: {
-                    title: "𝐏𝐎𝐌𝐍𝐈-𝐀𝐈 🎪 | الـسـيـرك الـرقـمـي",
+                    title: "Aisa-v1 | الـسـيـرك الـرقـمـي",
                     body: "تـم حـذف الـتـسـجـيـل",
                     thumbnailUrl: profilePic,
                     sourceUrl: '',
