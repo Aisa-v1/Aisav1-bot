@@ -16,14 +16,14 @@ if (data && data.length > 0) {
                 name: "cta_copy", 
                 params: { 
                     display_text: "💟╎ My Channel", 
-                    copy_code: "https://whatsapp.com/channel/0029Vb3UUKz3QxS3bgWmTc3x" 
+                    copy_code: "https://whatsapp.com/channel/0029VbD2pIvFXUuVFTTsek0J" 
                 } 
             },
         ],
         mentions: [m.sender],
         newsletter: {
-            name: '𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️',
-            jid: '120363225356834044@newsletter'
+            name: 'Aisa-v1',
+            jid: '120363426553571462@newsletter'
         },
     }, global.reply_status)
 } else {
