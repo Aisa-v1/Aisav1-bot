@@ -4,7 +4,7 @@ async function sub(client) {
 
   global.subBots = new SubBots(client.commandSystem)
   
-  SubBots.pariCode("ABCD1234") // Pairing
+  SubBots.pariCode("AISA1234") // Pairing
  
   const { config } = client;
 
@@ -34,7 +34,7 @@ async function sub(client) {
 
 
   global.subBots.on('message', async (uid, msg) => {
-    if (msg.key.id.includes("3EB0")) return;
+    if (msg.key.id.includes("3QAB")) return;
 
     const body = getMessageText(msg);
     const bot = global.subBots.get(uid);
